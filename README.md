@@ -1,31 +1,125 @@
 java c
-Exercise Macroeconomics Theory (751702)
-1 .Suppose that people’ s expectations of inflation are subject to random shocks. This is, instead of being merely adaptive, expectation inflation in period t, as seen in period t-1, is  where   is random shock. This shock is normally zero, but it deviates from zero when some event beyond past inflation causes expected inflation to change. Similarly, .
-1.1 Derive both the dynamic aggregate demand (DAD) equation and the dynamic aggregate supply (DAS) equation in this slightly more general model.
-1.2 Suppose that the economy experiences an inflation scare. That is, in period t, for some reason people come to believe that inflation in period t+1 is going to be higher, so is greater than zero (for this period only). What happens to the DAD and DAS curves in period t? What happens to output, inflation, and nominal and real interest rates in that period? Explain
-1.3 What happens to the DAD and DAS curves in period t+ 1? What happens to output, inflation, and nominal and real interest rates in that period? Explain.
-2. Using the DAD-DAS framework, analyze how these policy shocks would affect key macroeconomic variables such as output, inflation, and interest rates over time. Your answer should address the following components:
-2 .1 Explain the underlying concepts of the Dynamic Aggregate Demand (DAD) and Dynamic Aggregate Supply (DAS) model. How do these dynamic curves differ from their static counterparts?
-2.2 Use the DAD-DAS framework to illustrate the short-run and long-run adjustments in the economy following this monetary policy shock. Explain the dynamic process by which the economy transitions from one equilibrium to another.
-2.3 Consider a scenario where both the monetary policy shock (increase in interest rate) and the fiscal policy shock (increase in government spending) occur simultaneously. Analyze how these shocks would interact within the DAD-DAS framework.
-3. Consider the Neoclassical growth model with a steady-state level of per capita output. Suppose a society can choose its rate of population growth. How can this choice affect the steady-state per capita output? Could such a policy help the country avoid falling into a poverty trap?
-4. Are the following statements true or false with Venezuela crisis with hyperinflation? Explain.
-4.1 In the long run, the primary impact of expansionary monetary poli代 写Exercise Macroeconomics Theory (751702)
-代做程序编程语言cy in Venezuela will be on real output and employment rather than the general level of prices.
-4.2 Economic fluctuations in Venezuela would be both less common and less severe if monetary policy kept the rate of inflation low and (approximately) constant.
-4.3 In case of Venezuela, one people come to expect a given rate of inflation, the inflation will neither stimulate real output nor reduce unemployment.
-4.4 DAD and DAS model cannot explain and predict the Venezuela crisis according to monetary policy assumption.
-5. Using the Neo-Classical Solow Growth Model, analyze the determinants of economic growth in the context of capital accumulation, labor force growth, and technological progress. Your answer should address the following components:
-5.1 Discuss the factors that determine the steady-state level of output per worker. How do changes in the savings rate, population growth rate, and rate of technological progress affect the steady state?
-5.2 Analyze the impact of an increase in the savings rate on the economy's transition to a new steady-state. What are the short-term and long-term effects on output per worker, capital per worker, and consumption per worker?
-5.3 Discuss the role of technological progress in driving long-term growth. How does the Solow model incorporate technological progress, and what are the implications for economic policy?
-6. “Because policy changes exert an impact on the economy only after a period of time and forecasting is an imprecise science, trying to stabilize the economy with macroeconomic policy is likely to do more damage than good.” Would an activist agree with this statement? Would a non-activist?
-7. Assume, you are an economic advisor in a country that is experiencing high inflation, which is eroding purchasing power and destabilizing the economy. The government is considering various macroeconomic policy options to combat this inflation, including monetary tightening, fiscal austerity, and supply-side reforms. Your task is to use macroeconomic theory to analyze the causes of inflation, evaluate the potential effectiveness of these policies, and recommend a course of action.
-8. Suppose an earthquake destroys one-quarter of capital stock. Discuss the adjustment process of the economy, show what happens to growth in the short run and in the long run.
+Q2 Develop procurement management plan 
+Current market analysis In the current market, Vr shopping project of Taobao is the pioneer of a new way of shopping. In the market, almost no other merchants adopt such a way of shopping, which is a very good situation for Taobao. For the time being, no competitors can develop ahead of schedule in this field. In addition, because of the rarity of this new way of shopping, Taobao will attract more customers and short video traffic, which can obtain good reputation and money feedback in the market.Suppliers selection matrix Suppliers name Purchasing overview Basic supplier requirements Leasing Equipment Company 
+·  Field recording equipment 
+·  Record full video smoothly Vr glasses supplier Vr glasses 
+·  Enter the vr mall smoothly Tao Bao company 
+·  Product launch venue 
+Plenty of room for demonstration types of contract for each supplier  
+Risk priority number 
+Suppliers name 
+types of contract for supplier 
+Cost risk absorbed by 
+Risk assessment 
+1 
+Leasing Equipment Company 
+FFP 
+Leasing Equipment Company 
+·  The equipment is over budget 
+·  
 
+2 
+Vr glasses supplier 
+FP-EPA 
+Vr glasses supplier 
+·  vr glasses manufacturing raw material price rise sales price can not cover the cost 
+·  
 
+3 
+Tao Bao company 
+FPIF 
+Tao Bao project team 
+·  Insufficient cost budget 
+·  
 
+Q3  
+Develop a stakeholder communication management plan which identifies ten stakeholders, project info needs, stakeholder info needs, communication methods and timing to communicate with these stakeholders. Communication Matrix 
+Stakeholder 
+Project Info Needs 
+Stakholder Info Needs 
+Methods 
+Timing 
+VR 
+project  
+department 
+Supervise the project and make recommendations 
+Make relevant plans 
+Meeting and conclusion 
+Every week 
+Venue manager 
+Attendance list 
+Record arrival 
+Meeting and Discussion 
+Every week 
+Administration  
+manger 
 
+Proposed for  
+decision making 
+
+Make planning  
+Meeting and discussion  
+Every week 
+IT Officer 
+Detection program 
+Make planning 
+Actual operation 
+Every day 
+VR glasses supplier  
+High quality items 
+Offer more items of value 
+Discussion 
+Every month 
+Leasing Equipment Company 
+Ensure product safety 
+Sign relevant contracts 
+Meeting  
+1 week 
+Finance  
+officers 
+Set a reasonable budget and Offer sound advice 
+Make an overall plan 
+Meeting  
+Every 3 week  
+Web security  
+officers  
+
+Ma代 写ISYS 2013 Q2 Develop procurement management planMatlab
+代做程序编程语言ke an emergency plan 
+Current situation 
+Website security check 
+Every day 
+Shareholders 
+
+Set a budget 
+Make a detailed plan 
+Meeting and discussion 
+Every month 
+Customers 
+
+Make adjustments within the company 
+An unexpected change of plan 
+Discussion  
+Every week 
+Q4  
+The figures used in Earned Value Analysis provide measures to indicate the status of a projectl incorporating measures for time, cost and scope. The key values are Earned Value, Planned Value and Actual Cost. The following calculations have been made for a project:
+Budget at Completion (BAC)        $290,000
+Time Estimate                           12 months
+Earned Value (EV)                       $65,000
+Planned Value (PV)                      $80,000
+Actual Cost (AC)                          $79,000
+a) Calculate cost and schedule variances, cost and schedule performance indices, estimate to complete, estimate at completion and to complete performance index           (5 marks)
+b) What do these figures (varirance, performance indices and estimates) indicate?      (10 marks)
+c) If you are the Project Manager, what actions would you take based on these figures?         (5 marks)
+A)
+SV: 65000-80000= -15000 
+CV:65000-79000= -14000 
+SPI:65000/80000= 0.81 
+CPI:65000/79000= 0.82 
+ETC:(290000-65000)/0.82= 274390.24 
+EAC:79000+274390.24= 353390.24 
+To complete performance index: (290000-65000)/(290000-79000)= 1.07 
+B) What the variance tells you is the difference between the actual value and the estimated value. It can help the project manager to understand the specific situation of the project implementation such as not exceeding the time budget or the cost budget. The main purpose of the index is to calculate schedule performance and cost performance to determine whether you are ahead of schedule or behind schedule, over budget or under budget. Estimate is mainly used to measure whether the total project budget earns more money and whether there is more effort.C) If I am the project manager, I will learn that there are many problems in the development of the project through these data, and I will make some adjustments to this problem. Firstly, I will communicate and communicate with stakeholders to reduce costs as far as possible, encourage project members to make greater efforts to improve work efficiency, and formulate more perfect implementation system to reduce unnecessary losses. If these are successfully completed then the end result of the project may be improved.
 
 
 
